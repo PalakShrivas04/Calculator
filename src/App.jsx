@@ -20,9 +20,8 @@ function App() {
   };
 
   return (
-   
     <div className={styles.calculator}>
-       <h3 className="cal">Calculator</h3>
+      <h3 className="cal">Calculator</h3>
       <Display displayValue={calVal}></Display>
       <ButtonContainer onButtonClick={onButtonClick}></ButtonContainer>
     </div>
