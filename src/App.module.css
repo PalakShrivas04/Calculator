@@ -1,0 +1,9 @@
+.calculator {
+  border: 1px solid rgba(90, 90, 90);
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px;
+  margin:auto;
+  background-color: rgba(212, 116, 116, 0.442);
+}
+
